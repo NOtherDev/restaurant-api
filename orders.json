@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Order 1",
+    "details": {
+      "customerName": "John Doe",
+      "segment": "returning visitor",
+      "orderedAt": "2018-12-13T07:12:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Steak",
+        "details": "well done"
+      },
+      {
+        "name": "Fish & chips"
+      },
+      {
+        "name": "Large Coke"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Order 2",
+    "details": {
+      "customerName": "Mary Jane",
+      "segment": "first time",
+      "orderedAt": "2018-12-13T08:20:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Fish & chips"
+      },
+      {
+        "name": "Large Pizza Quattro Stagioni"
+      },
+      {
+        "name": "Espresso"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Order 3",
+    "details": {
+      "customerName": "Jimmy Beam",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T08:45:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "2x beef burger"
+      },
+      {
+        "name": "Orange juice"
+      },
+      {
+        "name": "Black tea"
+      }
+    ]
+  }
+]
