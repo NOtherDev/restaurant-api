@@ -59,5 +59,33 @@
         "name": "Black tea"
       }
     ]
+  },
+  {
+    "id": 4,
+    "name": "Order 4",
+    "details": {
+      "customerName": "Alice Smith",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:05:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Haloumi salad"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Order 5",
+    "details": {
+      "customerName": "Bob Sponge",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:25:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "2x Pancake"
+      }
+    ]
   }
 ]
