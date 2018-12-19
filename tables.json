@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Table 1",
+    "orderId": 1,
+    "capacity": 4,
+    "dishesCount": 3
+  },
+  {
+    "id": 2,
+    "name": "Table 2",
+    "orderId": 2,
+    "capacity": 4,
+    "dishesCount": 3
+  },
+  {
+    "id": 3,
+    "name": "Table 3",
+    "orderId": null,
+    "capacity": 4,
+    "dishesCount": 0
+  },
+  {
+    "id": 4,
+    "name": "Table 4",
+    "orderId": 3,
+    "capacity": 2,
+    "dishesCount": 3
+  },
+  {
+    "id": 5,
+    "name": "Table 5",
+    "orderId": 4,
+    "capacity": 1,
+    "dishesCount": 1
+  },
+  {
+    "id": 6,
+    "name": "Table 6",
+    "orderId": 5,
+    "capacity": 2,
+    "dishesCount": 1
+  }
+]
