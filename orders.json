@@ -50,7 +50,8 @@
     },
     "dishes": [
       {
-        "name": "2x beef burger"
+        "name": "beef burger",
+        "quantity": 2
       },
       {
         "name": "Orange juice"
@@ -84,7 +85,8 @@
     },
     "dishes": [
       {
-        "name": "2x Pancake"
+        "name": "Pancake",
+        "quantity": 2
       }
     ]
   }
