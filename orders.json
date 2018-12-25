@@ -10,10 +10,13 @@
     "dishes": [
       {
         "name": "Steak",
-        "details": "well done"
+        "details": "well done",
+        "status": "ready"
       },
       {
-        "name": "Fish & chips"
+        "name": "Fish & chips",
+        "status": "rejected",
+        "rejectionReason": "out of fish"
       },
       {
         "name": "Large Coke"
