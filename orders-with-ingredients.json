@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Order 1",
+    "details": {
+      "customerName": "John Doe",
+      "segment": "returning visitor",
+      "orderedAt": "2018-12-13T07:12:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Steak",
+        "details": "well done",
+        "status": "ready",
+        "ingredients": ["beef", "butter", "thyme", "olive oil"]
+      },
+      {
+        "name": "Fish & chips",
+        "status": "rejected",
+        "rejectionReason": "out of fish",
+        "ingredients": ["fish", "potatoes", "vegetable oil", "lemon"]
+      },
+      {
+        "name": "Large Coke",
+        "ingredients": ["coke"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Order 2",
+    "details": {
+      "customerName": "Mary Jane",
+      "segment": "first time",
+      "orderedAt": "2018-12-13T08:20:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Fish & chips",
+        "ingredients": ["fish", "potatoes", "vegetable oil", "lemon"]
+      },
+      {
+        "name": "Large Pizza Quattro Stagioni",
+        "ingredients": ["flour", "yeast", "cheese", "artichoke", "tomato", "mushroom", "ham"]
+      },
+      {
+        "name": "Espresso",
+        "ingredients": ["coffee"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Order 3",
+    "details": {
+      "customerName": "Jimmy Beam",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T08:45:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Beef burger",
+        "quantity": 2,
+        "ingredients": ["beef", "salad", "tomato", "sandwich"]
+      },
+      {
+        "name": "Orange juice",
+        "ingredients": ["orange"]
+      },
+      {
+        "name": "Black tea",
+        "ingredients": ["tea"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Order 4",
+    "details": {
+      "customerName": "Alice Smith",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:05:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Halloumi salad",
+        "ingredients": ["bread", "olive oil", "halloumi cheese", "spinach", "avocado"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Order 5",
+    "details": {
+      "customerName": "Bob Sponge",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:25:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Pancake",
+        "quantity": 2,
+        "ingredients": ["flour", "milk", "egg"]
+      }
+    ]
+  }
+]
