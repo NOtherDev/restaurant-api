@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "name": "Order 1",
+    "details": {
+      "customerName": "John Doe",
+      "segment": "returning visitor",
+      "orderedAt": "2018-12-13T07:12:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Steak",
+        "details": "well done",
+        "status": "ready",
+        "ingredients": [
+          "beef",
+          "butter",
+          "thyme",
+          "olive oil"
+        ]
+      },
+      {
+        "name": "Fish & chips",
+        "status": "rejected",
+        "rejectionReason": "out of fish",
+        "ingredients": [
+          "fish",
+          "potatoes",
+          "vegetable oil",
+          "lemon"
+        ]
+      },
+      {
+        "name": "Large Coke",
+        "ingredients": [
+          "coke"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Order 2",
+    "details": {
+      "customerName": "Mary Jane",
+      "segment": "first time",
+      "orderedAt": "2018-12-13T08:20:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Fish & chips",
+        "ingredients": [
+          "fish",
+          "potatoes",
+          "vegetable oil",
+          "lemon"
+        ]
+      },
+      {
+        "name": "Large Pizza Quattro Stagioni",
+        "ingredients": [
+          "flour",
+          "yeast",
+          "cheese",
+          "artichoke",
+          "tomato",
+          "mushroom",
+          "ham"
+        ]
+      },
+      {
+        "name": "Espresso",
+        "ingredients": [
+          "coffee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Order 3",
+    "details": {
+      "customerName": "Jimmy Beam",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T08:45:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Beef burger",
+        "quantity": 2,
+        "ingredients": [
+          "beef",
+          "salad",
+          "tomato",
+          "sandwich"
+        ]
+      },
+      {
+        "name": "Orange juice",
+        "ingredients": [
+          "orange"
+        ]
+      },
+      {
+        "name": "Black tea",
+        "ingredients": [
+          "tea"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Order 4",
+    "details": {
+      "customerName": "Alice Smith",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:05:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Halloumi salad",
+        "ingredients": [
+          "bread",
+          "olive oil",
+          "halloumi cheese",
+          "spinach",
+          "avocado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Order 5",
+    "details": {
+      "customerName": "Bob Sponge",
+      "segment": "focus customer",
+      "orderedAt": "2018-12-13T10:25:00.000Z"
+    },
+    "dishes": [
+      {
+        "name": "Pancake",
+        "quantity": 2,
+        "ingredients": [
+          "flour",
+          "milk",
+          "egg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Table 1",
+    "orderId": 1,
+    "capacity": 4,
+    "dishesCount": 3
+  },
+  {
+    "id": 12,
+    "name": "Table 2",
+    "orderId": 2,
+    "capacity": 4,
+    "dishesCount": 3
+  },
+  {
+    "id": 13,
+    "name": "Table 3",
+    "orderId": null,
+    "capacity": 4,
+    "dishesCount": 0
+  },
+  {
+    "id": 14,
+    "name": "Table 4",
+    "orderId": 3,
+    "capacity": 2,
+    "dishesCount": 3
+  },
+  {
+    "id": 15,
+    "name": "Table 5",
+    "orderId": 4,
+    "capacity": 1,
+    "dishesCount": 1
+  },
+  {
+    "id": 16,
+    "name": "Table 6",
+    "orderId": 5,
+    "capacity": 2,
+    "dishesCount": 1
+  },
+  {
+    "id": 991,
+    "name": "John Doe",
+    "role": "waiter"
+  },
+  {
+    "id": 992,
+    "name": "Mary Jane",
+    "role": "cook"
+  }
+]
