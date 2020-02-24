@@ -13,7 +13,7 @@
     "orderId": 2,
     "capacity": 4,
     "dishesCount": 3,
-    "paidPercent": 50.0
+    "paidPercent": 0.5
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
     "orderId": 3,
     "capacity": 2,
     "dishesCount": 3,
-    "paidPercent": 100.0
+    "paidPercent": 1.0
   },
   {
     "id": 5,
@@ -36,7 +36,7 @@
     "orderId": 4,
     "capacity": 1,
     "dishesCount": 1,
-    "paidPercent": 100.0
+    "paidPercent": 1.0
   },
   {
     "id": 6,
