@@ -5,7 +5,7 @@
     "details": {
       "customerName": "John Doe",
       "segment": "returning visitor",
-      "orderedAt": "2018-12-13T07:12:00.000Z"
+      "orderedAt": "2020-02-13T07:12:00.000Z"
     },
     "dishes": [
       {
@@ -29,7 +29,7 @@
     "details": {
       "customerName": "Mary Jane",
       "segment": "first time",
-      "orderedAt": "2018-12-13T08:20:00.000Z"
+      "orderedAt": "2020-02-13T08:20:00.000Z"
     },
     "dishes": [
       {
@@ -49,7 +49,7 @@
     "details": {
       "customerName": "Jimmy Beam",
       "segment": "focus customer",
-      "orderedAt": "2018-12-13T08:45:00.000Z"
+      "orderedAt": "2020-02-13T08:45:00.000Z"
     },
     "dishes": [
       {
@@ -70,7 +70,7 @@
     "details": {
       "customerName": "Alice Smith",
       "segment": "focus customer",
-      "orderedAt": "2018-12-13T10:05:00.000Z"
+      "orderedAt": "2020-02-13T10:05:00.000Z"
     },
     "dishes": [
       {
@@ -84,7 +84,7 @@
     "details": {
       "customerName": "Bob Sponge",
       "segment": "focus customer",
-      "orderedAt": "2018-12-13T10:25:00.000Z"
+      "orderedAt": "2020-02-13T10:25:00.000Z"
     },
     "dishes": [
       {
